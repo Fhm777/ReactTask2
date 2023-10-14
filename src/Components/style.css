@@ -1,0 +1,15 @@
+.rounded-corner-1 {
+    border-radius: 0 0 0 25px;
+}
+
+.rounded-corner-2 {
+    border-radius: 0 0 25px 0;
+}
+
+.bg-custom-1 {
+    background-color: rgb(27, 38, 70);
+}
+
+.bg-custom-2 {
+    background-color: rgb(23, 45, 103);
+}

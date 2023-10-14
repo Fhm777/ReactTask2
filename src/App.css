@@ -13,6 +13,12 @@
   }
 }
 
+.gradient_background {
+  background: linear-gradient(90deg, cyan, springgreen);
+  padding-bottom: 15.4%;
+  overflow: hidden;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
